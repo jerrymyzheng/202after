@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Welt()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=adjustment
+comment3.target=void\ adjustScore(int)
+comment4.params=action
+comment4.target=void\ setAction(int)
+comment5.params=
+comment5.target=void\ getActorCounts()
+comment6.params=
+comment6.target=int\ notifyChasers()
+numComments=7
